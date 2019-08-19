@@ -152,7 +152,7 @@
 		"@nestjs/testing": "^6.3.2",
 		"@types/bcrypt": "^3.0.0",
 		"@types/bluebird": "^3.5.27",
-		"@types/body-parser": "^1.17.0",
+		"@types/body-parser": "^1.17.1",
 		"@types/bunyan": "^1.8.6",
 		"@types/core-decorators": "^0.20.0",
 		"@types/cors": "^2.8.5",
