@@ -177,7 +177,7 @@
 		"@angular/language-service": "^8.0.0",
 		"@compodoc/compodoc": "^1.1.9",
 		"@ngtools/webpack": "^8.0.1",
-		"@types/googlemaps": "^3.30.16",
+		"@types/googlemaps": "^3.37.5",
 		"@types/hammerjs": "^2.0.36",
 		"@types/jasmine": "^3.3.9",
 		"@types/mongoose": "^5.3.20",
