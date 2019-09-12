@@ -95,7 +95,7 @@
 		"apollo-link-ws": "^1.0.17",
 		"apollo-upload-client": "^11.0.0",
 		"bootstrap": "^4.3.1",
-		"buffer": "^5.2.1",
+		"buffer": "^5.4.3",
 		"chart.js": "^2.8.0",
 		"ckeditor": "^4.11.4",
 		"classlist.js": "1.1.20150312",
