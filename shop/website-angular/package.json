@@ -119,7 +119,7 @@
 		"@fortawesome/fontawesome-free": "^5.10.0",
 		"@fortawesome/fontawesome-svg-core": "^1.2.24",
 		"@fortawesome/free-brands-svg-icons": "^5.9.0",
-		"@fortawesome/free-regular-svg-icons": "^5.9.0",
+		"@fortawesome/free-regular-svg-icons": "^5.11.1",
 		"@fortawesome/free-solid-svg-icons": "^5.9.0",
 		"@ngx-translate/core": "^11.0.1",
 		"@ngx-translate/http-loader": "^4.0.0",
