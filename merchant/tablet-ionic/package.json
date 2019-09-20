@@ -139,7 +139,7 @@
 		"es6-promise-plugin": "^4.2.2",
 		"font-awesome": "^4.7.0",
 		"fstream": "^1.0.12",
-		"graphql": "^14.1.1",
+		"graphql": "^14.5.7",
 		"graphql-tag": "^2.10.1",
 		"handlebars": "^4.1.2",
 		"imagesloaded": "^4.1.4",
