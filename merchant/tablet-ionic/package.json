@@ -202,7 +202,7 @@
 		"@types/socket.io-client": "^1.4.32",
 		"@types/stripe": "^6.31.10",
 		"@types/uuid": "^3.4.4",
-		"@types/yargs": "^13.0.0",
+		"@types/yargs": "^13.0.3",
 		"@webcomponents/webcomponentsjs": "^2.2.10",
 		"codelyzer": "^5.0.1",
 		"cpr": "^3.0.1",
