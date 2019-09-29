@@ -3194,10 +3194,10 @@ cordova-plugin-local-notification@^0.9.0-beta.2:
   resolved "https://registry.yarnpkg.com/cordova-plugin-local-notification/-/cordova-plugin-local-notification-0.9.0-beta.2.tgz#e3a0b4a35d11f95bb4f1e367d9baee9909cca695"
   integrity sha512-63n77K1pt8dnbWnNR8QWETi9Glezi1bvNHvHWmGNIOv0xCb0phZnm+Ku49BQ+omwe8Z5voMvrA4I03SYPpv38w==
 
-cordova-plugin-mixpanel@^4.5.2:
-  version "4.6.1"
-  resolved "https://registry.yarnpkg.com/cordova-plugin-mixpanel/-/cordova-plugin-mixpanel-4.6.1.tgz#a22de20db37fb552b08b2d7a286aa6291165eba5"
-  integrity sha512-tQ0kvp5mwKhWgSqvjMdERYfbSiQLBKDu01m6e0/wS/3zJEwPkBY5uhmTD/HTwl66HLOV0SGBXppD9shcmoJiKg==
+cordova-plugin-mixpanel@^4.7.0:
+  version "4.7.0"
+  resolved "https://registry.yarnpkg.com/cordova-plugin-mixpanel/-/cordova-plugin-mixpanel-4.7.0.tgz#ebe3c4bd88b64b640e69ac635095267c58797716"
+  integrity sha512-NioJjfRH4MCJh3R/m9bReAf9b+ETB49orjSCYViJ9rzqo4jcLnPKDVuUZV7F/WYTVdDAQyV6PSxuy+7xlv79uw==
 
 cordova-plugin-network-information@^2.0.1:
   version "2.0.1"
