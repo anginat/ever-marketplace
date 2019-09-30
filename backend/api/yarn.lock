@@ -601,10 +601,10 @@
   dependencies:
     uuid "3.3.2"
 
-"@nestjs/websockets@^6.3.2":
-  version "6.3.2"
-  resolved "https://registry.yarnpkg.com/@nestjs/websockets/-/websockets-6.3.2.tgz#b83d11e76ff572d0a6bc6574a8cebda9e8b069bb"
-  integrity sha512-ZOYbcqeBKMWXqZwBb06XejbNtVu0+X/jwKgL5SYJTs1kmnsCmRvmDzDEeMvx5Ign0cr3tF8SSOW6ysntdnIxXQ==
+"@nestjs/websockets@^6.8.0":
+  version "6.8.0"
+  resolved "https://registry.yarnpkg.com/@nestjs/websockets/-/websockets-6.8.0.tgz#35b1cf13817993fc3975cb857851cbd1d51cec1f"
+  integrity sha512-pvfIrRrXl+Rj9lRENZXRpjfPptOlln1Gx5ZVXEOW64muflOytZ7nhSBywpiXrFbzFBKgJkQjHfQVhzgTsCEBwQ==
   dependencies:
     iterare "1.2.0"
 
