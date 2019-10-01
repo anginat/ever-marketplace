@@ -193,7 +193,7 @@
 		"@types/googlemaps": "^3.30.19",
 		"@types/graphql": "^14.0.7",
 		"@types/jasmine": "^3.3.10",
-		"@types/jasminewd2": "^2.0.6",
+		"@types/jasminewd2": "^2.0.8",
 		"@types/leaflet": "^1.4.3",
 		"@types/mongodb": "^3.1.22",
 		"@types/mongoose": "^5.3.22",
