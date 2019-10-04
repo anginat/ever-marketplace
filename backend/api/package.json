@@ -55,7 +55,7 @@
 		"@nestjs/graphql": "^6.4.2",
 		"@nestjs/microservices": "^6.3.2",
 		"@nestjs/passport": "^6.1.0",
-		"@nestjs/platform-express": "^6.3.2",
+		"@nestjs/platform-express": "^6.8.2",
 		"@nestjs/platform-socket.io": "^6.3.2",
 		"@nestjs/swagger": "^3.0.2",
 		"@nestjs/typeorm": "^6.1.2",
