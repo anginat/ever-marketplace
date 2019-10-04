@@ -456,10 +456,10 @@
   dependencies:
     "@types/cordova" latest
 
-"@ionic-native/call-number@^5.11.0":
-  version "5.11.0"
-  resolved "https://registry.yarnpkg.com/@ionic-native/call-number/-/call-number-5.11.0.tgz#eb0e3c0b70bcc6ceaef67d6e7bdc91dedc3cdca3"
-  integrity sha512-r/JxWasZVU8aCyg4tqa3pAndxot3x7DjxO4ZIBrQGlgZYlCtVOnrCq0yJUcyeE6lmSWTLAmvjmk/+ORwOtJkQA==
+"@ionic-native/call-number@^5.15.0":
+  version "5.15.0"
+  resolved "https://registry.yarnpkg.com/@ionic-native/call-number/-/call-number-5.15.0.tgz#2f9766e023dabeb3833807f8b9f2913101f996f2"
+  integrity sha512-xSXP1PbrL2UwUzcEWA8ISNJiI6OZG1yAKBzFb2IDv63Dj85UVVyjRlJo4ok6FW+bQi+bYp/Aqw71IdNQt+oWig==
   dependencies:
     "@types/cordova" latest
 
