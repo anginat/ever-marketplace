@@ -545,10 +545,10 @@
   dependencies:
     "@types/cordova" latest
 
-"@ionic-native/network@^5.11.0":
-  version "5.11.0"
-  resolved "https://registry.yarnpkg.com/@ionic-native/network/-/network-5.11.0.tgz#71ac4c525f6973be363f412176cc1b6f5ffc4364"
-  integrity sha512-n/awmQIwOMvn1H4u2CEHKM3E8NSyv3ZfuuzKb30vU/CmtrVADsVArGWnukARApz1L8CavWI35lkRSGkjkPytWg==
+"@ionic-native/network@^5.15.0":
+  version "5.15.0"
+  resolved "https://registry.yarnpkg.com/@ionic-native/network/-/network-5.15.0.tgz#2075b9e7fe78d473dbf89f789bb2a7bc205f9542"
+  integrity sha512-Ij4AWe/MUnRuGRh3UTpmez3NmFR0qM/bQFaRqMo41yLt5NnDrF4Do3HhllIFTN0f9AJ0zSL26okbuzX6sRBNBQ==
   dependencies:
     "@types/cordova" latest
 
