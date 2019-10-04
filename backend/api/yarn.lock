@@ -1085,10 +1085,18 @@
   dependencies:
     moment "*"
 
-"@types/mongodb@*", "@types/mongodb@^3.1.28":
+"@types/mongodb@*":
   version "3.1.28"
   resolved "https://registry.yarnpkg.com/@types/mongodb/-/mongodb-3.1.28.tgz#c049cdff343788d77f5cc8c5f2e4af72ba7d047b"
   integrity sha512-tG+QqJ/hir2p0069ee28t2O9tlGRJKDq1WFZC2QYMlU47LGdldLL8tepfTq6aFLvP58OpwSoxaJ/qjW93ob1NQ==
+  dependencies:
+    "@types/bson" "*"
+    "@types/node" "*"
+
+"@types/mongodb@^3.3.5":
+  version "3.3.5"
+  resolved "https://registry.yarnpkg.com/@types/mongodb/-/mongodb-3.3.5.tgz#a43c47007555b8bf7681a08682d044cb0cd2fb74"
+  integrity sha512-AAOGny19/FbFR++oUYRnda3/nocidXkMaqxQz/eqRXKaYX/YZJtAVSAplXWYiNusuY9vLJvMSy2k5P4RWX60MA==
   dependencies:
     "@types/bson" "*"
     "@types/node" "*"
