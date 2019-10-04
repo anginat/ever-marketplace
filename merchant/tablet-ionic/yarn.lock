@@ -371,10 +371,10 @@
     is-absolute "^1.0.0"
     is-negated-glob "^1.0.0"
 
-"@ionic-native/barcode-scanner@^5.11.0":
-  version "5.11.0"
-  resolved "https://registry.yarnpkg.com/@ionic-native/barcode-scanner/-/barcode-scanner-5.11.0.tgz#2a8c61a5d428a9ba303286cfed8f4d418aad3f4d"
-  integrity sha512-22GyWaBj7RpLKCmm/szD3M1RLawSI8fQOjrLqHu49CN2i2jx6FgbQXv9jIISaLTDeBE3J4sPjzXm6lWxfWjBJQ==
+"@ionic-native/barcode-scanner@^5.15.0":
+  version "5.15.0"
+  resolved "https://registry.yarnpkg.com/@ionic-native/barcode-scanner/-/barcode-scanner-5.15.0.tgz#fbd588a41083d4ae6b8449c55de7ee96c6f0f499"
+  integrity sha512-l3hTi1w7ITJvJs+uNSbhJ8vZR6+P1UHxdgj5PL1xd/+CUTAzlIQIrivUHLdjfdjjxBGizh54rakr3HeKxV5SNg==
   dependencies:
     "@types/cordova" latest
 
