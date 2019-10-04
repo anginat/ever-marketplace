@@ -453,10 +453,10 @@
   resolved "https://registry.yarnpkg.com/@ionic-native/google-maps/-/google-maps-5.5.0.tgz#02537e04bb0d01d5580f936d8ccce6745188d90a"
   integrity sha512-+sCaB7cLR35ApsOyYSfwDX2ZTO2ItOI6FHkgTQ2rzOA1DVJ9rlU8HDL6jYBUhq+aDe3lhCPexSOryeBynaSvpQ==
 
-"@ionic-native/in-app-browser@^5.11.0":
-  version "5.11.0"
-  resolved "https://registry.yarnpkg.com/@ionic-native/in-app-browser/-/in-app-browser-5.11.0.tgz#3bb6ceeccc5d8d8617b58c241585e6d726f7f6fa"
-  integrity sha512-Zhx/aUe9qQydlpWOF0cmL7kXFZZmn711C8kbHekdZTiD0hF6AWoypG0EkzS4XTyZn00tXLRwMmXqrAK0DovMYw==
+"@ionic-native/in-app-browser@^5.15.0":
+  version "5.15.0"
+  resolved "https://registry.yarnpkg.com/@ionic-native/in-app-browser/-/in-app-browser-5.15.0.tgz#7866ce534d1081b8c3704f473210494b8fd432a8"
+  integrity sha512-TwBGHFy2UIycykTKMVePQNPA04C7juRdbounY5ClEBtg9vD3G1z0IbcV5KnfP0esQjJV1wEy8JI9TyR/eFLC/g==
   dependencies:
     "@types/cordova" latest
 
