@@ -166,7 +166,7 @@
 		"rxjs": "^6.5.2",
 		"rxjs-compat": "^6.5.2",
 		"socket.io-client": "^2.2.0",
-		"stripe": "^7.0.0",
+		"stripe": "^7.10.0",
 		"subscriptions-transport-ws": "^0.9.16",
 		"sw-toolbox": "^3.6.0",
 		"symbol-observable": "^1.2.0",
