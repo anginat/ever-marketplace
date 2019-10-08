@@ -590,12 +590,12 @@
     typescript "3.4.3"
     ws "^6.1.4"
 
-"@ionic/angular@^4.4.2":
-  version "4.4.2"
-  resolved "https://registry.yarnpkg.com/@ionic/angular/-/angular-4.4.2.tgz#9b4e23fb4e76b218332c63e5cb7a9fafcaaec586"
-  integrity sha512-ihjhvPFXqDS3HURvAfSH5vMlCersP08pnxfek36IOKX1sYOYq6VI/2miTv+jr7GuIZlmyZan0PibiRZPg7DIqA==
+"@ionic/angular@^4.10.2":
+  version "4.10.2"
+  resolved "https://registry.yarnpkg.com/@ionic/angular/-/angular-4.10.2.tgz#e7b58fef77438afbd10e63411748d8176ac0be68"
+  integrity sha512-OOro7X/hUuxq4nhebLmr4WaDtBm3gh5SR3NhTkxUmHUYCq5UEvc1EAsWb546mkAye8FkQft+bvT0XfzCJTNUKw==
   dependencies:
-    "@ionic/core" "4.4.2"
+    "@ionic/core" "4.10.2"
     tslib "^1.9.3"
 
 "@ionic/app-scripts@^3.2.4":
@@ -685,12 +685,13 @@
     wrap-ansi "^6.0.0"
     write-file-atomic "^3.0.0"
 
-"@ionic/core@4.4.2":
-  version "4.4.2"
-  resolved "https://registry.yarnpkg.com/@ionic/core/-/core-4.4.2.tgz#7bcadf125b77e08d2166581a00e1bcb35976547f"
-  integrity sha512-B6cA8Nz29hB+FxRHZ78em1Zlo2r1NqTl6HfiIA8lQtfI9tj4VQe7R1mF/Qb9jaati1U2k4eaHbxiwJ50Hez/4w==
+"@ionic/core@4.10.2":
+  version "4.10.2"
+  resolved "https://registry.yarnpkg.com/@ionic/core/-/core-4.10.2.tgz#974c5f75cba2130561b61c4f31e70cba09349cdc"
+  integrity sha512-ZYSgRbt1bAx2YXVxqs0rQQmMdNIsU8gGKt5VpB2/3A5Ft3JDjI5l5UJlCq+dvcsADJQM+j6BEQrlxeisaAab4w==
   dependencies:
-    ionicons "4.5.8"
+    ionicons "^4.6.3"
+    tslib "^1.10.0"
 
 "@ionic/discover@2.0.2":
   version "2.0.2"
@@ -5808,10 +5809,15 @@ ionic@^5.2.3:
     tslib "^1.9.0"
     uuid "^3.2.1"
 
-ionicons@4.5.8, ionicons@^4.5.8:
+ionicons@^4.5.8:
   version "4.5.8"
   resolved "https://registry.yarnpkg.com/ionicons/-/ionicons-4.5.8.tgz#a81177325153e7eaecb9546ee0b7955451743f8e"
   integrity sha512-Zib/fFGHt+r9tWrvZnrxVj22cO4NVj+ZOb76v5yiOyvb0LSTbbReECDg7lEU8e+YR69qCtWHruStJ+b4G/OWxg==
+
+ionicons@^4.6.3:
+  version "4.6.3"
+  resolved "https://registry.yarnpkg.com/ionicons/-/ionicons-4.6.3.tgz#e4f3a3e9b66761eb8c0db27798cc1a8ce97777d2"
+  integrity sha512-cgP+VIr2cTJpMfFyVHTerq6n2jeoiGboVoe3GlaAo5zoSBDAEXORwUZhv6m+lCyxlsHCS3nqPUE+MKyZU71t8Q==
 
 ip-regex@^2.1.0:
   version "2.1.0"
@@ -10764,6 +10770,11 @@ tslib@^1.0.0, tslib@^1.7.1, tslib@^1.8.0, tslib@^1.8.1, tslib@^1.9.0, tslib@^1.9
   version "1.9.3"
   resolved "https://registry.yarnpkg.com/tslib/-/tslib-1.9.3.tgz#d7e4dd79245d85428c4d7e4822a79917954ca286"
   integrity sha512-4krF8scpejhaOgqzBEcGM7yDIEfi0/8+8zDRZhNZZ2kjmHJ4hv3zCbQWxoJGz1iw5U0Jl0nma13xzHXcncMavQ==
+
+tslib@^1.10.0:
+  version "1.10.0"
+  resolved "https://registry.yarnpkg.com/tslib/-/tslib-1.10.0.tgz#c3c19f95973fb0a62973fb09d90d961ee43e5c8a"
+  integrity sha512-qOebF53frne81cf0S9B41ByenJ3/IuH8yJKngAX35CmiZySA0khhkovshKK+jGCaMnVomla7gVlIcc3EvKPbTQ==
 
 tslint-eslint-rules@^4.1.1:
   version "4.1.1"
