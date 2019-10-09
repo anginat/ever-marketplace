@@ -180,7 +180,7 @@
 		"@types/googlemaps": "^3.30.16",
 		"@types/hammerjs": "^2.0.36",
 		"@types/jasmine": "^3.3.9",
-		"@types/mongoose": "^5.3.20",
+		"@types/mongoose": "^5.5.20",
 		"@types/node": "^12.0.2",
 		"@types/socket.io-client": "^1.4.32",
 		"@types/source-map": "^0.5.7",
