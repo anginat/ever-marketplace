@@ -587,10 +587,10 @@
     lodash "4.17.11"
     path-to-regexp "3.0.0"
 
-"@nestjs/testing@^6.3.2":
-  version "6.3.2"
-  resolved "https://registry.yarnpkg.com/@nestjs/testing/-/testing-6.3.2.tgz#27ee2cb8455a166da9f1bca3d3ab8bb63842bec7"
-  integrity sha512-BlXpA5KWok7AxwDzWn/yaOhqhAYDxUE17e+hanPEUxGkCInQIc750lG/M6ZF6aQNg1llxHquYyVKJLvzhdZqBA==
+"@nestjs/testing@^6.8.3":
+  version "6.8.3"
+  resolved "https://registry.yarnpkg.com/@nestjs/testing/-/testing-6.8.3.tgz#457bedec42a3de13c0c436b85c987e35e47fe22e"
+  integrity sha512-nhiXfvnfJ0ARzpOJ+7btnHBxTh82oQX6+/G7EnQEBB/A1jFfE+sbB7Pdt6s999prNOQmdw/XdnORV67u9BwNkw==
   dependencies:
     optional "0.1.4"
 
