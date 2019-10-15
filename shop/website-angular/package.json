@@ -175,7 +175,7 @@
 		"@angular/cli": "^8.0.1",
 		"@angular/compiler-cli": "^8.0.0",
 		"@angular/language-service": "^8.0.0",
-		"@compodoc/compodoc": "^1.1.9",
+		"@compodoc/compodoc": "^1.1.11",
 		"@ngtools/webpack": "^8.0.1",
 		"@types/googlemaps": "^3.30.16",
 		"@types/hammerjs": "^2.0.36",
