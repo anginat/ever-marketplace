@@ -7113,10 +7113,10 @@ ngx-hm-carousel@^1.6.5-bata.1:
     resize-observer-polyfill "^1.5.0"
     tslib "^1.9.0"
 
-ngx-infinite-scroll@^7.0.1:
-  version "7.1.0"
-  resolved "https://registry.yarnpkg.com/ngx-infinite-scroll/-/ngx-infinite-scroll-7.1.0.tgz#87dd5e0c596cd4795d2a487f7e30a0eabbb5e442"
-  integrity sha512-uytsKxUgGcPQjYMcf7FObcducQHkEsilPHZGJ3AMhOM4mtxP+YramnXXdyp2thEcuMgfNr9fBJjYnP0YcJciEQ==
+ngx-infinite-scroll@^8.0.1:
+  version "8.0.1"
+  resolved "https://registry.yarnpkg.com/ngx-infinite-scroll/-/ngx-infinite-scroll-8.0.1.tgz#95b9d7e51f8ed5ee6821889b4e4e3cfe8ddb5838"
+  integrity sha512-YpgkTPDNT7UCEp0GRX178V1nF+M2slCPJ2TX3CpvPZb5AR99JYwj/fNivcue5lN51oUaTySEG27qjVU73vKhjw==
   dependencies:
     opencollective-postinstall "^2.0.2"
 
