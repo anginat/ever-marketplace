@@ -144,7 +144,7 @@
 		"subscriptions-transport-ws": "^0.9.16",
 		"swiper": "^4.5.0",
 		"tslib": "^1.9.3",
-		"uglify-js": "^3.6.0",
+		"uglify-js": "^3.6.2",
 		"uuid": "^3.3.2",
 		"zone.js": "^0.9.1"
 	},
