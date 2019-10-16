@@ -7120,10 +7120,10 @@ ngx-infinite-scroll@^7.0.1:
   dependencies:
     opencollective-postinstall "^2.0.2"
 
-ngx-toastr@^10.0.4:
-  version "10.0.4"
-  resolved "https://registry.yarnpkg.com/ngx-toastr/-/ngx-toastr-10.0.4.tgz#cbc61b8d67d748194ea7a28542b01e39bf1fc6c2"
-  integrity sha512-iN+zr2Msae5wV334c1dytRhSYNdUz467jwv1NE91lMmllsMkpUzZlu8VdFCeTFt+/R4TWzz19xBRqhpp+OAuVA==
+ngx-toastr@^11.1.2:
+  version "11.1.2"
+  resolved "https://registry.yarnpkg.com/ngx-toastr/-/ngx-toastr-11.1.2.tgz#d2713fc307319c56bfe9bb7021fd7012be7692b2"
+  integrity sha512-P9yWCs5KYRWTObTTmSBHi3XusLN2j4YDHz0UvS38d0w9e+g6e6oOLxFBqsjSG2CnMJ5UihzbiffM1N0QfpKufg==
   dependencies:
     tslib "^1.9.0"
 
