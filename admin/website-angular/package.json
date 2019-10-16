@@ -87,7 +87,7 @@
 		"angular2-toaster": "^8.0.0",
 		"angular2-wizard": "github:maiyaporn/angular2-wizard#pull/56/head",
 		"apollo-angular": "^1.6.0",
-		"apollo-angular-link-http": "^1.7.0",
+		"apollo-angular-link-http": "^1.9.0",
 		"apollo-cache-inmemory": "^1.6.2",
 		"apollo-client": "^2.6.2",
 		"apollo-link": "^1.2.11",
