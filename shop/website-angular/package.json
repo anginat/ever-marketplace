@@ -126,7 +126,7 @@
 		"@types/googlemaps": "^3.30.16",
 		"angular2-logger": "^0.7.0",
 		"apollo-angular": "^1.6.0",
-		"apollo-angular-link-http": "^1.7.0",
+		"apollo-angular-link-http": "^1.9.0",
 		"apollo-cache-inmemory": "^1.6.2",
 		"apollo-client": "^2.6.2",
 		"apollo-link-context": "^1.0.14",
