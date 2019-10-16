@@ -1564,19 +1564,19 @@ apache-md5@^1.0.6:
   resolved "https://registry.yarnpkg.com/apache-md5/-/apache-md5-1.1.2.tgz#ee49736b639b4f108b6e9e626c6da99306b41692"
   integrity sha1-7klza2ObTxCLbp5ibG2pkwa0FpI=
 
-apollo-angular-link-http-common@~1.7.0:
-  version "1.7.0"
-  resolved "https://registry.yarnpkg.com/apollo-angular-link-http-common/-/apollo-angular-link-http-common-1.7.0.tgz#c4ece9832724437027a591e5840ebedef8e4609b"
-  integrity sha512-syKJD/AgSrfeaZ0XRGfDuRNT2CowTu7VugdlPxf41wJ+v3uPbUnNoha9/simuxOQuUR7ykUWVyKtNPpJO+MagA==
+apollo-angular-link-http-common@~1.8.0:
+  version "1.8.0"
+  resolved "https://registry.yarnpkg.com/apollo-angular-link-http-common/-/apollo-angular-link-http-common-1.8.0.tgz#b9bbe8927b2178fb852ae0203336ff021247506a"
+  integrity sha512-Dx/OXIOT8RBIIxr9cUSbes1Qnolqgy678o5qT/oDE3/pHcBLiJhTph57Nqhr1/zRYU6fnhKJ6E50wFX7/5LI5g==
   dependencies:
     tslib "^1.9.0"
 
-apollo-angular-link-http@^1.7.0:
-  version "1.7.0"
-  resolved "https://registry.yarnpkg.com/apollo-angular-link-http/-/apollo-angular-link-http-1.7.0.tgz#1d0b8a5a6cd94b5397c6a959330a0e2fb9f61d6a"
-  integrity sha512-YNZx1sQS8SleEadF4TPswRF/iq2M99/iwnwtxlqmlq7E+4ZSXXyxXjQO6LsXH8iWoG7aitCpzUZR7XAVuXGp+g==
+apollo-angular-link-http@^1.9.0:
+  version "1.9.0"
+  resolved "https://registry.yarnpkg.com/apollo-angular-link-http/-/apollo-angular-link-http-1.9.0.tgz#1066cca6f36efe2bcbc79aa899ab97ee57daa980"
+  integrity sha512-wA6cLgZyA59RIZ28WKsty/4Gq+5DCxdfFruQmTBoMeol+R70R9fP99/A/HEV+fWPy4hWt9V2YeECx8HrSosd+g==
   dependencies:
-    apollo-angular-link-http-common "~1.7.0"
+    apollo-angular-link-http-common "~1.8.0"
     extract-files "5.0.1"
     tslib "^1.9.0"
 
