@@ -1012,10 +1012,10 @@
   dependencies:
     "@types/jasmine" "*"
 
-"@types/leaflet@^1.4.3":
-  version "1.4.3"
-  resolved "https://registry.yarnpkg.com/@types/leaflet/-/leaflet-1.4.3.tgz#62638cb73770eeaed40222042afbcc7b495f0cc4"
-  integrity sha512-jFRBSsPHi1EwQSwrN0cOJLdPhwOZsRl4IMxvm/2ShLh0YM5GfCtQXCzsrv8RE7DWL+AykXdYSAd9bFLWbZT4CQ==
+"@types/leaflet@^1.5.4":
+  version "1.5.4"
+  resolved "https://registry.yarnpkg.com/@types/leaflet/-/leaflet-1.5.4.tgz#851783ba730ab5430ea3e51a2ab7f35e43968f99"
+  integrity sha512-hAiiY7S25N8Ax+vA7FX29j1Hzn7bTziRnkKSj5jfOpud2JUcp/qZHGKCgxWW2TH581a00fDVBhto4xRox8GHXw==
   dependencies:
     "@types/geojson" "*"
 
