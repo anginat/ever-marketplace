@@ -463,10 +463,10 @@
   dependencies:
     "@types/cordova" latest
 
-"@ionic-native/camera@^5.11.0":
-  version "5.11.0"
-  resolved "https://registry.yarnpkg.com/@ionic-native/camera/-/camera-5.11.0.tgz#05ab687a7f06763c90d1ec0efd6ec394029f1f5a"
-  integrity sha512-jMw8DUJGdY8fxB9S9EbYsCW3jXWRUZO9FxhX5Hl2cD3JPN2VgcLGfbFJgKZxBesz5vmUlfqKYeWhIBv8GWIfJg==
+"@ionic-native/camera@^5.15.1":
+  version "5.15.1"
+  resolved "https://registry.yarnpkg.com/@ionic-native/camera/-/camera-5.15.1.tgz#00d96847049d9972049ac46112a2fe6d56c1a72a"
+  integrity sha512-5Jx7pw0e2QXqF0mkzjTkv9GB+e0vcs9STogPdLG81lI1ZfkEgFhjQ6hvgzGyuMmOI4VZcEnBqCkK5NET9RmpSQ==
   dependencies:
     "@types/cordova" latest
 
