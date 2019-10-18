@@ -420,10 +420,10 @@
   dependencies:
     "@types/cordova" latest
 
-"@ionic-native/file-transfer@^5.11.0":
-  version "5.11.0"
-  resolved "https://registry.yarnpkg.com/@ionic-native/file-transfer/-/file-transfer-5.11.0.tgz#60230ea4f53a4a5581dab48de1688cd273ad4b1d"
-  integrity sha512-TH/tTLRPSj6O3uu+FgP1ARIfIUntALb72xoPnPZtukmTDNsNqxIEv086F9h+G0DQZIX6uJEKgRFbug+RZ21HHA==
+"@ionic-native/file-transfer@^5.15.1":
+  version "5.15.1"
+  resolved "https://registry.yarnpkg.com/@ionic-native/file-transfer/-/file-transfer-5.15.1.tgz#43ccbd06be77ec376e6cdee71f38719852bf194f"
+  integrity sha512-LPvEu+gHxn+cXkx8OWJX2A/bR97X0z39nR+X+gcpBkTm1T0CA4e41X8cXcF6fcyLriKNIxIlF1+vUGOQP03mvQ==
   dependencies:
     "@types/cordova" latest
 
