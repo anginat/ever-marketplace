@@ -378,10 +378,10 @@
   dependencies:
     "@types/cordova" latest
 
-"@ionic-native/call-number@^5.11.0":
-  version "5.11.0"
-  resolved "https://registry.yarnpkg.com/@ionic-native/call-number/-/call-number-5.11.0.tgz#eb0e3c0b70bcc6ceaef67d6e7bdc91dedc3cdca3"
-  integrity sha512-r/JxWasZVU8aCyg4tqa3pAndxot3x7DjxO4ZIBrQGlgZYlCtVOnrCq0yJUcyeE6lmSWTLAmvjmk/+ORwOtJkQA==
+"@ionic-native/call-number@^5.15.1":
+  version "5.15.1"
+  resolved "https://registry.yarnpkg.com/@ionic-native/call-number/-/call-number-5.15.1.tgz#88472ed5e71892fda82d4ef769dbc85534d9b295"
+  integrity sha512-OzhxHA/8TKj2AAuadXPt4JfQ146j2WSY1BmXjmrMfspyCYMmAPW2PDquQ10bOxNZDD7Xv7DxCALhczL5a9neVg==
   dependencies:
     "@types/cordova" latest
 
