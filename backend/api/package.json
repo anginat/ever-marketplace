@@ -142,7 +142,7 @@
 		"upath": "^1.1.2",
 		"uuid": "^3.3.2",
 		"validator": "^11.0.0",
-		"ws": "^7.1.1"
+		"ws": "^7.2.0"
 	},
 	"devDependencies": {
 		"@commitlint/cli": "^8.1.0",
