@@ -794,10 +794,10 @@
     call-me-maybe "^1.0.1"
     glob-to-regexp "^0.3.0"
 
-"@ng-select/ng-select@^3.0.5":
-  version "3.0.5"
-  resolved "https://registry.yarnpkg.com/@ng-select/ng-select/-/ng-select-3.0.5.tgz#693af173b4d9560c82646e128196dc9330e33fa6"
-  integrity sha512-R8X/iIzWTMignK9U3KScN4cjvQnLRp1KseAHt/cTP8/hlQSz6Vm7jhwbZqlVzV7PVXwKUoTgHLrSS9ombt1r3Q==
+"@ng-select/ng-select@^3.2.0":
+  version "3.2.0"
+  resolved "https://registry.yarnpkg.com/@ng-select/ng-select/-/ng-select-3.2.0.tgz#54e809c52cb9514d5219ee02ec0469adda0f7351"
+  integrity sha512-RowcQJTbWcm0NlTxqe48K8dY3UA5viNkAexqo18g2URXdK22fCnv7fcNvc5kmf2LJgrnABQvsiPfkwWJFeRx0Q==
   dependencies:
     tslib "^1.9.0"
 
