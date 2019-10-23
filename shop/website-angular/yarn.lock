@@ -2183,7 +2183,7 @@ cheerio@^1.0.0-rc.2:
   optionalDependencies:
     fsevents "^2.0.6"
 
-chokidar@^2.0.0, chokidar@^2.0.2, chokidar@^2.0.3, chokidar@^2.0.4, chokidar@^2.1.1, chokidar@^2.1.2, chokidar@^2.1.5:
+chokidar@^2.0.2, chokidar@^2.0.3, chokidar@^2.0.4, chokidar@^2.1.1, chokidar@^2.1.2, chokidar@^2.1.5:
   version "2.1.5"
   resolved "https://registry.yarnpkg.com/chokidar/-/chokidar-2.1.5.tgz#0ae8434d962281a5f56c72869e79cb6d9d86ad4d"
   integrity sha512-i0TprVWp+Kj4WRPtInjexJ8Q+BqTE909VpH8xVhXrJkoc5QC8VO9TryGOqTr+2hljzc1sC62t22h5tZePodM/A==
@@ -9085,12 +9085,12 @@ sass@1.22.2:
   dependencies:
     chokidar ">=2.0.0 <4.0.0"
 
-sass@^1.17.2:
-  version "1.18.0"
-  resolved "https://registry.yarnpkg.com/sass/-/sass-1.18.0.tgz#f34371c31e268e555c2ac8e43d2b64d194e7d090"
-  integrity sha512-Mc579V+BhH693tqt+lvph+gmRqmC6BjtsEVsjkW1944DEA5a0wPuCi781hL3fY4EDuqZnEVPbu42CZRywwE97g==
+sass@^1.23.1:
+  version "1.23.1"
+  resolved "https://registry.yarnpkg.com/sass/-/sass-1.23.1.tgz#0e5b72ba2bd9f0229a637d33f8dd5bf2d810beb3"
+  integrity sha512-zQzJ3UETUWOMd/pJJGH/zvRsBVO97m11RcpfUhcQUHEXf0yHUBgOIE/Nw8aK0m1XyVJPeq228iIK7gVxsJ/Puw==
   dependencies:
-    chokidar "^2.0.0"
+    chokidar ">=2.0.0 <4.0.0"
 
 saucelabs@^1.5.0:
   version "1.5.0"
