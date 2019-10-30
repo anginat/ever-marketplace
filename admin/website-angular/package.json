@@ -169,7 +169,7 @@
 		"@storybook/angular": "^5.0.10",
 		"@types/async": "^3.0.0",
 		"@types/d3-color": "^1.2.2",
-		"@types/faker": "^4.1.5",
+		"@types/faker": "^4.1.7",
 		"@types/googlemaps": "^3.30.19",
 		"@types/highlight.js": "^9.12.3",
 		"@types/jasmine": "^3.3.12",
