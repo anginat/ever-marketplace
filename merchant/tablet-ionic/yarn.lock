@@ -427,10 +427,10 @@
   dependencies:
     "@types/cordova" latest
 
-"@ionic-native/geolocation@^5.11.0":
-  version "5.11.0"
-  resolved "https://registry.yarnpkg.com/@ionic-native/geolocation/-/geolocation-5.11.0.tgz#1e9c7ad9c98c9c020f95a31afae56f4c2961d3e8"
-  integrity sha512-wj3uDa/Yxcrfz2AJuqQze7fZFuanfrepREs1tedbM9dZA7Zrz2Rwa5ntulx59bnbW7QojrEUGnbJcpdHFG7tPA==
+"@ionic-native/geolocation@^5.16.0":
+  version "5.16.0"
+  resolved "https://registry.yarnpkg.com/@ionic-native/geolocation/-/geolocation-5.16.0.tgz#542121057c40a022759d6671ea826b2861399030"
+  integrity sha512-SiXjwOQ1dCfP092Op8D0naMv1fDj595MdtQRxo3Qd1w8KH49O+VFmWwJzMZ6jLAxs7x9fEqnSVO3PImFZetihg==
   dependencies:
     "@types/cordova" latest
 
