@@ -151,6 +151,17 @@
     rxjs "6.4.0"
     source-map "0.7.3"
 
+"@angular-devkit/core@8.3.16":
+  version "8.3.16"
+  resolved "https://registry.yarnpkg.com/@angular-devkit/core/-/core-8.3.16.tgz#9e4d60a11b15b77c1468170585f090a281d13441"
+  integrity sha512-BWw7GcM0034o25aNGiUs3pLKdMFTqBmzQ/mHmT53GRocDQPdCjDq0TCDe0FOYA3zYRr4anMF1wN9pM94VVS7uQ==
+  dependencies:
+    ajv "6.10.2"
+    fast-json-stable-stringify "2.0.0"
+    magic-string "0.25.3"
+    rxjs "6.4.0"
+    source-map "0.7.3"
+
 "@angular-devkit/schematics@8.0.2", "@angular-devkit/schematics@^8.0.2":
   version "8.0.2"
   resolved "https://registry.yarnpkg.com/@angular-devkit/schematics/-/schematics-8.0.2.tgz#854a4366c7dc7462bebd10c24e808b5c9f65b6e2"
@@ -167,12 +178,12 @@
     "@angular-devkit/core" "8.1.2"
     rxjs "6.4.0"
 
-"@angular-devkit/schematics@8.1.3":
-  version "8.1.3"
-  resolved "https://registry.yarnpkg.com/@angular-devkit/schematics/-/schematics-8.1.3.tgz#09d6e9d054ba09795325e81c35f2e0a0a56c862b"
-  integrity sha512-nz3b0uXu3w3PPLq4D+ersjeX/AyW3Amq7UwXa8lZFoJ0oc8cPjXW+h4D56rNw2GbOGZX7aaNe/Cxd9SBt0wF2A==
+"@angular-devkit/schematics@8.3.16":
+  version "8.3.16"
+  resolved "https://registry.yarnpkg.com/@angular-devkit/schematics/-/schematics-8.3.16.tgz#29193b5b239a1a07617e3e850ad1b1b5e894bfe2"
+  integrity sha512-DP3DhiHx4c31yvbh75tbHpx3LtDd5LVLhaAE9y7aCq2W7zMp0Di3RZI1NKhSyjJqNMQVIhn/kNJhJYlBnFDgbQ==
   dependencies:
-    "@angular-devkit/core" "8.1.3"
+    "@angular-devkit/core" "8.3.16"
     rxjs "6.4.0"
 
 "@angular/animations@^8.0.0":
@@ -269,14 +280,14 @@
   dependencies:
     tslib "^1.9.0"
 
-"@angular/pwa@^0.801.3":
-  version "0.801.3"
-  resolved "https://registry.yarnpkg.com/@angular/pwa/-/pwa-0.801.3.tgz#5e3eb91edb67fc2a541130c1c9a7d89e4daadd98"
-  integrity sha512-mpfFBE7PnGHoTs6U+U3+YLccB19xnLKPvVxaEAanW0vuZAOBxBE9tHTYvBMYYB22qkUUl7CSKwqHqRXfDgHooQ==
+"@angular/pwa@^0.803.16":
+  version "0.803.16"
+  resolved "https://registry.yarnpkg.com/@angular/pwa/-/pwa-0.803.16.tgz#0fd7337b09cd4fc8eb2b3a78c0643ab4a5adbd50"
+  integrity sha512-GZkq9JTAj6hdPMOLhSnc6zpCaO12FVBvCW1lBeMOKZuIM3hmWywUtBZJ0in+OrDle4ey3miAz0StH68Z16lXEw==
   dependencies:
-    "@angular-devkit/core" "8.1.3"
-    "@angular-devkit/schematics" "8.1.3"
-    "@schematics/angular" "8.1.3"
+    "@angular-devkit/core" "8.3.16"
+    "@angular-devkit/schematics" "8.3.16"
+    "@schematics/angular" "8.3.16"
     parse5-html-rewriting-stream "5.1.0"
 
 "@angular/router@^8.0.0":
@@ -889,13 +900,13 @@
     "@angular-devkit/core" "8.0.2"
     "@angular-devkit/schematics" "8.0.2"
 
-"@schematics/angular@8.1.3":
-  version "8.1.3"
-  resolved "https://registry.yarnpkg.com/@schematics/angular/-/angular-8.1.3.tgz#dc465dae7ef658ac945551e12990676fdac188ec"
-  integrity sha512-DsR/LDC7Vifw78pDew4HhUYvhKM5gyY8muvJqqfAU9DLq4yZ5ixus7jpqWXNeL3ZalFcH1/yQW20nzLQiLETkA==
+"@schematics/angular@8.3.16":
+  version "8.3.16"
+  resolved "https://registry.yarnpkg.com/@schematics/angular/-/angular-8.3.16.tgz#7307295a8f567542b0cb9cc4f362df2401003ca3"
+  integrity sha512-eRJI2bxwpYWHsb+aBNz98AsFTDI6+09B1lbkJ0vz1bJX3hewglMpHzcOykJVX8RhrQu39wCjxXa90cJm/oucKg==
   dependencies:
-    "@angular-devkit/core" "8.1.3"
-    "@angular-devkit/schematics" "8.1.3"
+    "@angular-devkit/core" "8.3.16"
+    "@angular-devkit/schematics" "8.3.16"
 
 "@schematics/angular@^8.0.0":
   version "8.1.2"
@@ -1382,6 +1393,16 @@ ajv@6.10.0, ajv@^6.1.0, ajv@^6.5.5:
   version "6.10.0"
   resolved "https://registry.yarnpkg.com/ajv/-/ajv-6.10.0.tgz#90d0d54439da587cd7e843bfb7045f50bd22bdf1"
   integrity sha512-nffhOpkymDECQyR0mnsUtoCE8RlX38G0rYP+wgLWFyZuUyuuojSSvi/+euOiQBIn63whYwYVIIH1TvE3tu4OEg==
+  dependencies:
+    fast-deep-equal "^2.0.1"
+    fast-json-stable-stringify "^2.0.0"
+    json-schema-traverse "^0.4.1"
+    uri-js "^4.2.2"
+
+ajv@6.10.2:
+  version "6.10.2"
+  resolved "https://registry.yarnpkg.com/ajv/-/ajv-6.10.2.tgz#d3cea04d6b017b2894ad69040fec8b623eb4bd52"
+  integrity sha512-TXtUUEYHuaTEbLZWIKUr5pmBuhDLy+8KYtPYdcV8qC+pOZL+NKqYwvWSRrVXHn+ZmRRAu8vJTAznH7Oag6RVRw==
   dependencies:
     fast-deep-equal "^2.0.1"
     fast-json-stable-stringify "^2.0.0"
