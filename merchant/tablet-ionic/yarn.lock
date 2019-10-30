@@ -413,10 +413,10 @@
   dependencies:
     "@types/cordova" latest
 
-"@ionic-native/email-composer@^5.11.0":
-  version "5.11.0"
-  resolved "https://registry.yarnpkg.com/@ionic-native/email-composer/-/email-composer-5.11.0.tgz#ecd6be0a8bafdfd25c292eeb75779eb9fb9344ab"
-  integrity sha512-EYMZcsIeR4j3MIhpDfBpyImtQSge7B3zhdQTQP9qNb/CLD7Kyyz54EUlzK1xBThWjFnZdtsBIg5hVvI6nbZAog==
+"@ionic-native/email-composer@^5.16.0":
+  version "5.16.0"
+  resolved "https://registry.yarnpkg.com/@ionic-native/email-composer/-/email-composer-5.16.0.tgz#3690427d951eb28c12aaf3eebe7c0ca6381f02b7"
+  integrity sha512-lFQExv2gEQ2x94qNgazZgQ5KGkqDhOYQVQtJQznvnpVJvJA22QQzZcbl4F+YnBThHwtfpy/MAO0bVbdadksm/w==
   dependencies:
     "@types/cordova" latest
 
