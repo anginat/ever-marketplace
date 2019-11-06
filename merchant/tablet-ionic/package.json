@@ -170,7 +170,7 @@
 		"subscriptions-transport-ws": "^0.9.16",
 		"sw-toolbox": "^3.6.0",
 		"symbol-observable": "^1.2.0",
-		"uglify-js": "^3.6.0",
+		"uglify-js": "^3.6.8",
 		"uuid": "^3.3.2",
 		"zone.js": "^0.9.1"
 	},
