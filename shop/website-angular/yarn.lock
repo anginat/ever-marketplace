@@ -6387,11 +6387,6 @@ lodash.ismatch@^4.4.0:
   resolved "https://registry.yarnpkg.com/lodash.ismatch/-/lodash.ismatch-4.4.0.tgz#756cb5150ca3ba6f11085a78849645f188f85f37"
   integrity sha1-dWy1FQyjum8RCFp4hJZF8Yj4Xzc=
 
-lodash.isplainobject@^4.0.6:
-  version "4.0.6"
-  resolved "https://registry.yarnpkg.com/lodash.isplainobject/-/lodash.isplainobject-4.0.6.tgz#7c526a52d89b45c45cc690b88163be0497f550cb"
-  integrity sha1-fFJqUtibRcRcxpC4gWO+BJf1UMs=
-
 lodash.mergewith@^4.6.0:
   version "4.6.1"
   resolved "https://registry.yarnpkg.com/lodash.mergewith/-/lodash.mergewith-4.6.1.tgz#639057e726c3afbdb3e7d42741caa8d6e4335927"
@@ -10063,15 +10058,12 @@ strip-url-auth@^1.0.0:
   resolved "https://registry.yarnpkg.com/strip-url-auth/-/strip-url-auth-1.0.1.tgz#22b0fa3a41385b33be3f331551bbb837fa0cd7ae"
   integrity sha1-IrD6OkE4WzO+PzMVUbu4N/oM164=
 
-stripe@^7.0.0:
-  version "7.0.0"
-  resolved "https://registry.yarnpkg.com/stripe/-/stripe-7.0.0.tgz#6761e7ef03e28f7c1d773abbdd6431c78b2b4fbb"
-  integrity sha512-2CzGN1oHqEoEYxo5H5t7/pd/3NdmK1f4ZJSXKa+mBfWh3yqTpKscxKU5ZbH9NpdvE7n5awkwj1oygaMwfi9dOw==
+stripe@^7.12.0:
+  version "7.12.0"
+  resolved "https://registry.yarnpkg.com/stripe/-/stripe-7.12.0.tgz#91b4b1119fb546ee8bec913846362a6f051318ad"
+  integrity sha512-h/NMB7E+0WgDuEOdfrS9giYmTfQRvOoKHdYaKzo9V0hxilXopVJd3ZZQ47193rAOHjIhmuCDtQRb3gEEm24gKg==
   dependencies:
-    lodash.isplainobject "^4.0.6"
     qs "^6.6.0"
-    safe-buffer "^5.1.1"
-    uuid "^3.3.2"
 
 style-loader@0.23.1, style-loader@^0.23.1:
   version "0.23.1"
