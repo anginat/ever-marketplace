@@ -159,7 +159,7 @@
 		"@angular/cli": "^8.0.2",
 		"@angular/compiler-cli": "^8.0.0",
 		"@angular/language-service": "^8.0.0",
-		"@babel/core": "^7.4.3",
+		"@babel/core": "^7.7.2",
 		"@compodoc/compodoc": "^1.1.9",
 		"@storybook/addon-actions": "^5.0.10",
 		"@storybook/addon-knobs": "^5.0.10",
