@@ -229,7 +229,7 @@
 		"optimize-js-plugin": "^0.0.4",
 		"parse5": "^5.1.0",
 		"preload-webpack-plugin": "^2.3.0",
-		"prettier": "^1.16.4",
+		"prettier": "^1.19.1",
 		"protractor": "^5.4.2",
 		"rimraf": "^2.6.3",
 		"rxjs-tslint": "0.1.5",
