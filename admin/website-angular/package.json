@@ -163,7 +163,7 @@
 		"@compodoc/compodoc": "^1.1.9",
 		"@storybook/addon-actions": "^5.2.6",
 		"@storybook/addon-knobs": "^5.2.6",
-		"@storybook/addon-links": "^5.0.10",
+		"@storybook/addon-links": "^5.2.6",
 		"@storybook/addon-notes": "^5.0.10",
 		"@storybook/addons": "^5.0.10",
 		"@storybook/angular": "^5.0.10",
