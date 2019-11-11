@@ -151,7 +151,7 @@
 		"@commitlint/travis-cli": "^8.1.0",
 		"@nestjs/testing": "^6.3.2",
 		"@types/bcrypt": "^3.0.0",
-		"@types/bluebird": "^3.5.27",
+		"@types/bluebird": "^3.5.29",
 		"@types/body-parser": "^1.17.0",
 		"@types/bunyan": "^1.8.6",
 		"@types/core-decorators": "^0.20.0",
