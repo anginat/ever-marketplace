@@ -548,14 +548,13 @@
   optionalDependencies:
     type-graphql "^0.17.3"
 
-"@nestjs/microservices@^6.3.2":
-  version "6.3.2"
-  resolved "https://registry.yarnpkg.com/@nestjs/microservices/-/microservices-6.3.2.tgz#ad0a5aa05b0208d75f1f8301e13e20653627e3ce"
-  integrity sha512-daEzZ4L+BpMmu9KDFUgdU7+HgeVug//qrHlVTrdqCjyNd4vgZFgXrHGNOOFWYdZCwyY2I9qrL+XEv3pz3VeXyA==
+"@nestjs/microservices@^6.10.0":
+  version "6.10.0"
+  resolved "https://registry.yarnpkg.com/@nestjs/microservices/-/microservices-6.10.0.tgz#d7b0ea6f82ec4187b3a5aa6a16768861a31a67f9"
+  integrity sha512-CdPOwescI/3FXNtKcgr9lIR8/QkNnH0fm3mviB4RIwyPyC9nSHG0A2z2NKXfLX5G2cVoaqj0uVAKPkLY31VMTQ==
   dependencies:
     iterare "1.2.0"
     json-socket "0.3.0"
-    optional "0.1.4"
 
 "@nestjs/passport@^6.1.0":
   version "6.1.0"
